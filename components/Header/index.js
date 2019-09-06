@@ -38,5 +38,5 @@ const header = event => {
 }
 
 let myHeader = header()
-console.log(myHeader)
+
 headerContainer.appendChild(myHeader)
